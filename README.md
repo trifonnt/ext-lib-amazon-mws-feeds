@@ -58,7 +58,6 @@ $ unzip amazon-mws-v20090101-java-2016-09-21._CB278445245_.zip
 
 $ mv LICENSE.txt  ../
 
-???
 $ mkdir ../src/test/resources/
 $ mv src/com/amazonaws/mws/mock/*.xml ../src/test/resources/
 $ mkdir ../src/test/java/com/amazonaws/mws/mock -p
